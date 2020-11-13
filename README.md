@@ -17,6 +17,8 @@ Support:
 ## About:
 This project is a template for installing and running [WordPress](http://wordpress.org/) on [Heroku](http://www.heroku.com/).
 
+Thanks to THEUSAF for updating wordpress
+
 It is based on [Bedrock](https://roots.io/bedrock/), a modern WordPress stack that helps you to get started with the best development tools and a modern project structure.
 
 All resources used in this project are free-of-charge. You can upgrade them post-deployment.
